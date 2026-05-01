@@ -1,6 +1,6 @@
 ---
 name: image-prompt-generator
-description: Generates optimized prompts for image generation and editing with OpenAI's GPT Image models (gpt-image-2). Use this skill WHENEVER the user wants to create images with AI, generate prompts for ChatGPT or DALL-E, needs help with logo generation, infographic, product photo, UI mockup, ad, realistic photo, educational image, image editing, style transfer, compositing, image translation, comic strip, children's book, merch, card, or any other type of visual. Also trigger when they say "I want to generate an image of", "help me create a prompt for an image", "I want to make a logo in ChatGPT", "how do I ask AI to generate X", or any variation about creating images with AI.
+description: Expert skill for crafting optimized prompts for OpenAI's GPT Image models (gpt-image-2). Covers generation and editing workflows across all major use cases. Trigger this skill whenever the user wants to create or edit images with AI — including logos, infographics, product photos, UI mockups, ads, photorealistic portraits, educational diagrams, pitch deck slides, style transfer, virtual try-on, compositing, comic strips, children's book illustrations, collectible mockups, holiday cards, interior design swaps, and image text translation. Also trigger on phrases like "generate an image of", "create a prompt for", "make a logo in ChatGPT", "how do I ask AI to generate X", or any request about creating visuals with AI.
 ---
 
 # Image Prompt Generator
